@@ -47,7 +47,7 @@
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
-                <field>Test_Account_FIeld__c</field>
+                <field>Test_Account_Field__c</field>
             </layoutItems>
         </layoutColumns>
         <layoutColumns>
